@@ -1,6 +1,7 @@
 // src/constants/apiConstants.js
 // Base API URL
-export const API_BASE_URL = "http://localhost:5000";
+// export const API_BASE_URL = "http://localhost:5000";
+export const API_BASE_URL = "https://ss-backend.netlify.app/";
 
 // API Endpoints
 export const API_ENDPOINTS = {
